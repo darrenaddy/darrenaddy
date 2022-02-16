@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Truth Rap on Pixelsmithy&#39;s Forge</title>
-    <link>https://darrenaddy.github.io/tags/truth-rap/</link>
+    <link>https://darrenaddy.github.io/darrenaddy/tags/truth-rap/</link>
     <description>Recent content in Truth Rap on Pixelsmithy&#39;s Forge</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Nov 2021 16:12:47 +0100</lastBuildDate><atom:link href="https://darrenaddy.github.io/tags/truth-rap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 16:12:47 +0100</lastBuildDate><atom:link href="https://darrenaddy.github.io/darrenaddy/tags/truth-rap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kilez More - New World Order</title>
-      <link>https://darrenaddy.github.io/audio/kilez-more-new-world-order/</link>
+      <link>https://darrenaddy.github.io/darrenaddy/audio/kilez-more-new-world-order/</link>
       <pubDate>Mon, 01 Nov 2021 16:12:47 +0100</pubDate>
       
-      <guid>https://darrenaddy.github.io/audio/kilez-more-new-world-order/</guid>
+      <guid>https://darrenaddy.github.io/darrenaddy/audio/kilez-more-new-world-order/</guid>
       <description>With the audio post type you can easily integrate a Spotify, SoundCloud, TuneIn or Mixcloud player to your post.
 If you don&amp;rsquo;t want to embed sound but use a header image you can set it with the featuredImage option in your markdown file.</description>
     </item>
