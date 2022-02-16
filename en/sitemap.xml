@@ -66,6 +66,19 @@
     <loc>https://darrenaddy.github.io/darrenaddy/video/the-low-darts/</loc>
     <lastmod>2022-02-15T16:38:38-06:00</lastmod>
   </url><url>
+    <loc>https://darrenaddy.github.io/darrenaddy/categories/video/</loc>
+    <lastmod>2022-02-15T16:38:38-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://darrenaddy.github.io/darrenaddy/de/categories/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://darrenaddy.github.io/darrenaddy/categories/video/"
+                />
+  </url><url>
     <loc>https://darrenaddy.github.io/darrenaddy/video/</loc>
     <lastmod>2022-02-15T16:38:38-06:00</lastmod>
     <xhtml:link
@@ -78,9 +91,6 @@
                 hreflang="en"
                 href="https://darrenaddy.github.io/darrenaddy/video/"
                 />
-  </url><url>
-    <loc>https://darrenaddy.github.io/darrenaddy/categories/videos/</loc>
-    <lastmod>2022-02-15T16:38:38-06:00</lastmod>
   </url><url>
     <loc>https://darrenaddy.github.io/darrenaddy/status/bilberry-theme-released/</loc>
     <lastmod>2021-12-15T10:45:44+02:00</lastmod>
@@ -272,19 +282,6 @@
   </url><url>
     <loc>https://darrenaddy.github.io/darrenaddy/categories/politics/</loc>
     <lastmod>2021-11-01T16:23:40+01:00</lastmod>
-  </url><url>
-    <loc>https://darrenaddy.github.io/darrenaddy/categories/video/</loc>
-    <lastmod>2021-11-01T16:23:40+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://darrenaddy.github.io/darrenaddy/de/categories/video/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://darrenaddy.github.io/darrenaddy/categories/video/"
-                />
   </url><url>
     <loc>https://darrenaddy.github.io/darrenaddy/audio/</loc>
     <lastmod>2021-11-01T16:12:47+01:00</lastmod>
